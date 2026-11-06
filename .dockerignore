@@ -1,0 +1,7 @@
+target
+.git
+.github
+*.iml
+.project
+.classpath
+.settings
